@@ -1,0 +1,145 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Documentos D\\UTN\\Programacion 3\\TP Integrador\\TP_IntegradorProg3\\TP_IntegradorProg3\\Gestion Stock\\GestorStock\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3F5534CF-694E-429C-A1A8-073AC21DC415}|GestorStock.csproj|d:\\documentos d\\utn\\programacion 3\\tp integrador\\tp_integradorprog3\\tp_integradorprog3\\gestion stock\\gestorstock\\loginview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F5534CF-694E-429C-A1A8-073AC21DC415}|GestorStock.csproj|solutionrelative:loginview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F5534CF-694E-429C-A1A8-073AC21DC415}|GestorStock.csproj|d:\\documentos d\\utn\\programacion 3\\tp integrador\\tp_integradorprog3\\tp_integradorprog3\\gestion stock\\gestorstock\\updateproductwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{3F5534CF-694E-429C-A1A8-073AC21DC415}|GestorStock.csproj|solutionrelative:updateproductwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F5534CF-694E-429C-A1A8-073AC21DC415}|GestorStock.csproj|d:\\documentos d\\utn\\programacion 3\\tp integrador\\tp_integradorprog3\\tp_integradorprog3\\gestion stock\\gestorstock\\deleteproductwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F5534CF-694E-429C-A1A8-073AC21DC415}|GestorStock.csproj|solutionrelative:deleteproductwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F5534CF-694E-429C-A1A8-073AC21DC415}|GestorStock.csproj|d:\\documentos d\\utn\\programacion 3\\tp integrador\\tp_integradorprog3\\tp_integradorprog3\\gestion stock\\gestorstock\\productwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F5534CF-694E-429C-A1A8-073AC21DC415}|GestorStock.csproj|solutionrelative:productwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F5534CF-694E-429C-A1A8-073AC21DC415}|GestorStock.csproj|d:\\documentos d\\utn\\programacion 3\\tp integrador\\tp_integradorprog3\\tp_integradorprog3\\gestion stock\\gestorstock\\productwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{3F5534CF-694E-429C-A1A8-073AC21DC415}|GestorStock.csproj|solutionrelative:productwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F5534CF-694E-429C-A1A8-073AC21DC415}|GestorStock.csproj|d:\\documentos d\\utn\\programacion 3\\tp integrador\\tp_integradorprog3\\tp_integradorprog3\\gestion stock\\gestorstock\\deleteproductwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{3F5534CF-694E-429C-A1A8-073AC21DC415}|GestorStock.csproj|solutionrelative:deleteproductwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F5534CF-694E-429C-A1A8-073AC21DC415}|GestorStock.csproj|d:\\documentos d\\utn\\programacion 3\\tp integrador\\tp_integradorprog3\\tp_integradorprog3\\gestion stock\\gestorstock\\loginview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{3F5534CF-694E-429C-A1A8-073AC21DC415}|GestorStock.csproj|solutionrelative:loginview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F5534CF-694E-429C-A1A8-073AC21DC415}|GestorStock.csproj|d:\\documentos d\\utn\\programacion 3\\tp integrador\\tp_integradorprog3\\tp_integradorprog3\\gestion stock\\gestorstock\\updateproductwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F5534CF-694E-429C-A1A8-073AC21DC415}|GestorStock.csproj|solutionrelative:updateproductwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LoginView.xaml.cs",
+              "DocumentMoniker": "D:\\Documentos D\\UTN\\Programacion 3\\TP Integrador\\TP_IntegradorProg3\\TP_IntegradorProg3\\Gestion Stock\\GestorStock\\LoginView.xaml.cs",
+              "RelativeDocumentMoniker": "LoginView.xaml.cs",
+              "ToolTip": "D:\\Documentos D\\UTN\\Programacion 3\\TP Integrador\\TP_IntegradorProg3\\TP_IntegradorProg3\\Gestion Stock\\GestorStock\\LoginView.xaml.cs",
+              "RelativeToolTip": "LoginView.xaml.cs",
+              "ViewState": "AQIAADAAAAAAAAAAAAAAwDwAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T15:19:58.104Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "LoginView.xaml",
+              "DocumentMoniker": "D:\\Documentos D\\UTN\\Programacion 3\\TP Integrador\\TP_IntegradorProg3\\TP_IntegradorProg3\\Gestion Stock\\GestorStock\\LoginView.xaml",
+              "RelativeDocumentMoniker": "LoginView.xaml",
+              "ToolTip": "D:\\Documentos D\\UTN\\Programacion 3\\TP Integrador\\TP_IntegradorProg3\\TP_IntegradorProg3\\Gestion Stock\\GestorStock\\LoginView.xaml",
+              "RelativeToolTip": "LoginView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-18T15:19:50.281Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UpdateProductWindow.xaml.cs",
+              "DocumentMoniker": "D:\\Documentos D\\UTN\\Programacion 3\\TP Integrador\\TP_IntegradorProg3\\TP_IntegradorProg3\\Gestion Stock\\GestorStock\\UpdateProductWindow.xaml.cs",
+              "RelativeDocumentMoniker": "UpdateProductWindow.xaml.cs",
+              "ToolTip": "D:\\Documentos D\\UTN\\Programacion 3\\TP Integrador\\TP_IntegradorProg3\\TP_IntegradorProg3\\Gestion Stock\\GestorStock\\UpdateProductWindow.xaml.cs",
+              "RelativeToolTip": "UpdateProductWindow.xaml.cs",
+              "ViewState": "AQIAAEAAAAAAAAAAAAAQwBoAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T14:41:27.77Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UpdateProductWindow.xaml",
+              "DocumentMoniker": "D:\\Documentos D\\UTN\\Programacion 3\\TP Integrador\\TP_IntegradorProg3\\TP_IntegradorProg3\\Gestion Stock\\GestorStock\\UpdateProductWindow.xaml",
+              "RelativeDocumentMoniker": "UpdateProductWindow.xaml",
+              "ToolTip": "D:\\Documentos D\\UTN\\Programacion 3\\TP Integrador\\TP_IntegradorProg3\\TP_IntegradorProg3\\Gestion Stock\\GestorStock\\UpdateProductWindow.xaml",
+              "RelativeToolTip": "UpdateProductWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-18T14:38:47.15Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DeleteProductWindow.xaml.cs",
+              "DocumentMoniker": "D:\\Documentos D\\UTN\\Programacion 3\\TP Integrador\\TP_IntegradorProg3\\TP_IntegradorProg3\\Gestion Stock\\GestorStock\\DeleteProductWindow.xaml.cs",
+              "RelativeDocumentMoniker": "DeleteProductWindow.xaml.cs",
+              "ToolTip": "D:\\Documentos D\\UTN\\Programacion 3\\TP Integrador\\TP_IntegradorProg3\\TP_IntegradorProg3\\Gestion Stock\\GestorStock\\DeleteProductWindow.xaml.cs",
+              "RelativeToolTip": "DeleteProductWindow.xaml.cs",
+              "ViewState": "AQIAADAAAAAAAAAAAAAAAEUAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-16T03:49:23.672Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DeleteProductWindow.xaml",
+              "DocumentMoniker": "D:\\Documentos D\\UTN\\Programacion 3\\TP Integrador\\TP_IntegradorProg3\\TP_IntegradorProg3\\Gestion Stock\\GestorStock\\DeleteProductWindow.xaml",
+              "RelativeDocumentMoniker": "DeleteProductWindow.xaml",
+              "ToolTip": "D:\\Documentos D\\UTN\\Programacion 3\\TP Integrador\\TP_IntegradorProg3\\TP_IntegradorProg3\\Gestion Stock\\GestorStock\\DeleteProductWindow.xaml",
+              "RelativeToolTip": "DeleteProductWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-16T03:48:15.396Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProductWindow.xaml.cs",
+              "DocumentMoniker": "D:\\Documentos D\\UTN\\Programacion 3\\TP Integrador\\TP_IntegradorProg3\\TP_IntegradorProg3\\Gestion Stock\\GestorStock\\ProductWindow.xaml.cs",
+              "RelativeDocumentMoniker": "ProductWindow.xaml.cs",
+              "ToolTip": "D:\\Documentos D\\UTN\\Programacion 3\\TP Integrador\\TP_IntegradorProg3\\TP_IntegradorProg3\\Gestion Stock\\GestorStock\\ProductWindow.xaml.cs",
+              "RelativeToolTip": "ProductWindow.xaml.cs",
+              "ViewState": "AQIAADMAAAAAAAAAAAAAwEkAAABSAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-16T00:59:21.173Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProductWindow.xaml",
+              "DocumentMoniker": "D:\\Documentos D\\UTN\\Programacion 3\\TP Integrador\\TP_IntegradorProg3\\TP_IntegradorProg3\\Gestion Stock\\GestorStock\\ProductWindow.xaml",
+              "RelativeDocumentMoniker": "ProductWindow.xaml",
+              "ToolTip": "D:\\Documentos D\\UTN\\Programacion 3\\TP Integrador\\TP_IntegradorProg3\\TP_IntegradorProg3\\Gestion Stock\\GestorStock\\ProductWindow.xaml",
+              "RelativeToolTip": "ProductWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-15T22:13:21.84Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

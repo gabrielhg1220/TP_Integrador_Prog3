@@ -1,0 +1,20 @@
+﻿GestorStock
+1.0.0.0
+
+winexe
+C#
+.cs
+D:\Documentos D\UTN\Programacion 3\TP Integrador\TP_IntegradorProg3\TP_IntegradorProg3\Gestion Stock\GestorStock\obj\Debug\net8.0-windows\
+GestorStock
+none
+false
+TRACE;DEBUG;NET;NET8_0;NETCOREAPP
+D:\Documentos D\UTN\Programacion 3\TP Integrador\TP_IntegradorProg3\TP_IntegradorProg3\Gestion Stock\GestorStock\App.xaml
+7-1744405636
+
+12-1313337699
+2421004863356
+AddProductWindow.xaml;CrearUsuario.xaml;DeleteProductWindow.xaml;LoginView.xaml;MainWindow.xaml;ProductWindow.xaml;UpdateProductWindow.xaml;
+
+True
+

@@ -1,0 +1,34 @@
+G:\C#\WPF\Diseño UI + Login + SQL Server\Diseño 2\Gestion Stock\GestorStock.Entities\bin\Debug\net8.0\GestorStock.Entities.deps.json
+G:\C#\WPF\Diseño UI + Login + SQL Server\Diseño 2\Gestion Stock\GestorStock.Entities\bin\Debug\net8.0\GestorStock.Entities.dll
+G:\C#\WPF\Diseño UI + Login + SQL Server\Diseño 2\Gestion Stock\GestorStock.Entities\bin\Debug\net8.0\GestorStock.Entities.pdb
+G:\C#\WPF\Diseño UI + Login + SQL Server\Diseño 2\Gestion Stock\GestorStock.Entities\obj\Debug\net8.0\GestorStock.Entities.GeneratedMSBuildEditorConfig.editorconfig
+G:\C#\WPF\Diseño UI + Login + SQL Server\Diseño 2\Gestion Stock\GestorStock.Entities\obj\Debug\net8.0\GestorStock.Entities.AssemblyInfoInputs.cache
+G:\C#\WPF\Diseño UI + Login + SQL Server\Diseño 2\Gestion Stock\GestorStock.Entities\obj\Debug\net8.0\GestorStock.Entities.AssemblyInfo.cs
+G:\C#\WPF\Diseño UI + Login + SQL Server\Diseño 2\Gestion Stock\GestorStock.Entities\obj\Debug\net8.0\GestorStock.Entities.csproj.CoreCompileInputs.cache
+G:\C#\WPF\Diseño UI + Login + SQL Server\Diseño 2\Gestion Stock\GestorStock.Entities\obj\Debug\net8.0\GestorStock.Entities.dll
+G:\C#\WPF\Diseño UI + Login + SQL Server\Diseño 2\Gestion Stock\GestorStock.Entities\obj\Debug\net8.0\refint\GestorStock.Entities.dll
+G:\C#\WPF\Diseño UI + Login + SQL Server\Diseño 2\Gestion Stock\GestorStock.Entities\obj\Debug\net8.0\GestorStock.Entities.pdb
+G:\C#\WPF\Diseño UI + Login + SQL Server\Diseño 2\Gestion Stock\GestorStock.Entities\obj\Debug\net8.0\ref\GestorStock.Entities.dll
+C:\Users\gabri\Documents\WPFPrueba - App WPF\Prueba Funcionando (Login + Agregar usuario + Listar Productos)\Gestion Stock\GestorStock.Entities\bin\Debug\net8.0\GestorStock.Entities.deps.json
+C:\Users\gabri\Documents\WPFPrueba - App WPF\Prueba Funcionando (Login + Agregar usuario + Listar Productos)\Gestion Stock\GestorStock.Entities\bin\Debug\net8.0\GestorStock.Entities.dll
+C:\Users\gabri\Documents\WPFPrueba - App WPF\Prueba Funcionando (Login + Agregar usuario + Listar Productos)\Gestion Stock\GestorStock.Entities\bin\Debug\net8.0\GestorStock.Entities.pdb
+C:\Users\gabri\Documents\WPFPrueba - App WPF\Prueba Funcionando (Login + Agregar usuario + Listar Productos)\Gestion Stock\GestorStock.Entities\obj\Debug\net8.0\GestorStock.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabri\Documents\WPFPrueba - App WPF\Prueba Funcionando (Login + Agregar usuario + Listar Productos)\Gestion Stock\GestorStock.Entities\obj\Debug\net8.0\GestorStock.Entities.AssemblyInfoInputs.cache
+C:\Users\gabri\Documents\WPFPrueba - App WPF\Prueba Funcionando (Login + Agregar usuario + Listar Productos)\Gestion Stock\GestorStock.Entities\obj\Debug\net8.0\GestorStock.Entities.AssemblyInfo.cs
+C:\Users\gabri\Documents\WPFPrueba - App WPF\Prueba Funcionando (Login + Agregar usuario + Listar Productos)\Gestion Stock\GestorStock.Entities\obj\Debug\net8.0\GestorStock.Entities.csproj.CoreCompileInputs.cache
+C:\Users\gabri\Documents\WPFPrueba - App WPF\Prueba Funcionando (Login + Agregar usuario + Listar Productos)\Gestion Stock\GestorStock.Entities\obj\Debug\net8.0\GestorStock.Entities.dll
+C:\Users\gabri\Documents\WPFPrueba - App WPF\Prueba Funcionando (Login + Agregar usuario + Listar Productos)\Gestion Stock\GestorStock.Entities\obj\Debug\net8.0\refint\GestorStock.Entities.dll
+C:\Users\gabri\Documents\WPFPrueba - App WPF\Prueba Funcionando (Login + Agregar usuario + Listar Productos)\Gestion Stock\GestorStock.Entities\obj\Debug\net8.0\GestorStock.Entities.pdb
+C:\Users\gabri\Documents\WPFPrueba - App WPF\Prueba Funcionando (Login + Agregar usuario + Listar Productos)\Gestion Stock\GestorStock.Entities\obj\Debug\net8.0\ref\GestorStock.Entities.dll
+D:\Documentos D\UTN\Programacion 3\TP Integrador\TP_IntegradorProg3\TP_IntegradorProg3\Gestion Stock\GestorStock.Entities\bin\Debug\net8.0\GestorStock.Entities.deps.json
+D:\Documentos D\UTN\Programacion 3\TP Integrador\TP_IntegradorProg3\TP_IntegradorProg3\Gestion Stock\GestorStock.Entities\bin\Debug\net8.0\GestorStock.Entities.dll
+D:\Documentos D\UTN\Programacion 3\TP Integrador\TP_IntegradorProg3\TP_IntegradorProg3\Gestion Stock\GestorStock.Entities\bin\Debug\net8.0\GestorStock.Entities.pdb
+D:\Documentos D\UTN\Programacion 3\TP Integrador\TP_IntegradorProg3\TP_IntegradorProg3\Gestion Stock\GestorStock.Entities\obj\Debug\net8.0\GestorStock.Entities.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documentos D\UTN\Programacion 3\TP Integrador\TP_IntegradorProg3\TP_IntegradorProg3\Gestion Stock\GestorStock.Entities\obj\Debug\net8.0\GestorStock.Entities.AssemblyInfoInputs.cache
+D:\Documentos D\UTN\Programacion 3\TP Integrador\TP_IntegradorProg3\TP_IntegradorProg3\Gestion Stock\GestorStock.Entities\obj\Debug\net8.0\GestorStock.Entities.AssemblyInfo.cs
+D:\Documentos D\UTN\Programacion 3\TP Integrador\TP_IntegradorProg3\TP_IntegradorProg3\Gestion Stock\GestorStock.Entities\obj\Debug\net8.0\GestorStock.Entities.csproj.CoreCompileInputs.cache
+D:\Documentos D\UTN\Programacion 3\TP Integrador\TP_IntegradorProg3\TP_IntegradorProg3\Gestion Stock\GestorStock.Entities\obj\Debug\net8.0\GestorStock.Entities.dll
+D:\Documentos D\UTN\Programacion 3\TP Integrador\TP_IntegradorProg3\TP_IntegradorProg3\Gestion Stock\GestorStock.Entities\obj\Debug\net8.0\refint\GestorStock.Entities.dll
+D:\Documentos D\UTN\Programacion 3\TP Integrador\TP_IntegradorProg3\TP_IntegradorProg3\Gestion Stock\GestorStock.Entities\obj\Debug\net8.0\GestorStock.Entities.pdb
+D:\Documentos D\UTN\Programacion 3\TP Integrador\TP_IntegradorProg3\TP_IntegradorProg3\Gestion Stock\GestorStock.Entities\obj\Debug\net8.0\ref\GestorStock.Entities.dll
+D:\Documentos D\UTN\Programacion 3\TP Integrador\TP_IntegradorProg3\TP_IntegradorProg3\Gestion Stock\GestorStock.Entities\obj\Debug\net8.0\GestorStock.Entities.sourcelink.json

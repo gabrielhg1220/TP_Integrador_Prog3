@@ -1,0 +1,34 @@
+G:\C#\WPF\Diseño UI + Login + SQL Server\Diseño 2\Gestion Stock\GestorStock.Security\bin\Debug\net8.0\GestorStock.Security.deps.json
+G:\C#\WPF\Diseño UI + Login + SQL Server\Diseño 2\Gestion Stock\GestorStock.Security\bin\Debug\net8.0\GestorStock.Security.dll
+G:\C#\WPF\Diseño UI + Login + SQL Server\Diseño 2\Gestion Stock\GestorStock.Security\bin\Debug\net8.0\GestorStock.Security.pdb
+G:\C#\WPF\Diseño UI + Login + SQL Server\Diseño 2\Gestion Stock\GestorStock.Security\obj\Debug\net8.0\GestorStock.Security.GeneratedMSBuildEditorConfig.editorconfig
+G:\C#\WPF\Diseño UI + Login + SQL Server\Diseño 2\Gestion Stock\GestorStock.Security\obj\Debug\net8.0\GestorStock.Security.AssemblyInfoInputs.cache
+G:\C#\WPF\Diseño UI + Login + SQL Server\Diseño 2\Gestion Stock\GestorStock.Security\obj\Debug\net8.0\GestorStock.Security.AssemblyInfo.cs
+G:\C#\WPF\Diseño UI + Login + SQL Server\Diseño 2\Gestion Stock\GestorStock.Security\obj\Debug\net8.0\GestorStock.Security.csproj.CoreCompileInputs.cache
+G:\C#\WPF\Diseño UI + Login + SQL Server\Diseño 2\Gestion Stock\GestorStock.Security\obj\Debug\net8.0\GestorStock.Security.dll
+G:\C#\WPF\Diseño UI + Login + SQL Server\Diseño 2\Gestion Stock\GestorStock.Security\obj\Debug\net8.0\refint\GestorStock.Security.dll
+G:\C#\WPF\Diseño UI + Login + SQL Server\Diseño 2\Gestion Stock\GestorStock.Security\obj\Debug\net8.0\GestorStock.Security.pdb
+G:\C#\WPF\Diseño UI + Login + SQL Server\Diseño 2\Gestion Stock\GestorStock.Security\obj\Debug\net8.0\ref\GestorStock.Security.dll
+C:\Users\gabri\Documents\WPFPrueba - App WPF\Prueba Funcionando (Login + Agregar usuario + Listar Productos)\Gestion Stock\GestorStock.Security\bin\Debug\net8.0\GestorStock.Security.deps.json
+C:\Users\gabri\Documents\WPFPrueba - App WPF\Prueba Funcionando (Login + Agregar usuario + Listar Productos)\Gestion Stock\GestorStock.Security\bin\Debug\net8.0\GestorStock.Security.dll
+C:\Users\gabri\Documents\WPFPrueba - App WPF\Prueba Funcionando (Login + Agregar usuario + Listar Productos)\Gestion Stock\GestorStock.Security\bin\Debug\net8.0\GestorStock.Security.pdb
+C:\Users\gabri\Documents\WPFPrueba - App WPF\Prueba Funcionando (Login + Agregar usuario + Listar Productos)\Gestion Stock\GestorStock.Security\obj\Debug\net8.0\GestorStock.Security.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabri\Documents\WPFPrueba - App WPF\Prueba Funcionando (Login + Agregar usuario + Listar Productos)\Gestion Stock\GestorStock.Security\obj\Debug\net8.0\GestorStock.Security.AssemblyInfoInputs.cache
+C:\Users\gabri\Documents\WPFPrueba - App WPF\Prueba Funcionando (Login + Agregar usuario + Listar Productos)\Gestion Stock\GestorStock.Security\obj\Debug\net8.0\GestorStock.Security.AssemblyInfo.cs
+C:\Users\gabri\Documents\WPFPrueba - App WPF\Prueba Funcionando (Login + Agregar usuario + Listar Productos)\Gestion Stock\GestorStock.Security\obj\Debug\net8.0\GestorStock.Security.csproj.CoreCompileInputs.cache
+C:\Users\gabri\Documents\WPFPrueba - App WPF\Prueba Funcionando (Login + Agregar usuario + Listar Productos)\Gestion Stock\GestorStock.Security\obj\Debug\net8.0\GestorStock.Security.dll
+C:\Users\gabri\Documents\WPFPrueba - App WPF\Prueba Funcionando (Login + Agregar usuario + Listar Productos)\Gestion Stock\GestorStock.Security\obj\Debug\net8.0\refint\GestorStock.Security.dll
+C:\Users\gabri\Documents\WPFPrueba - App WPF\Prueba Funcionando (Login + Agregar usuario + Listar Productos)\Gestion Stock\GestorStock.Security\obj\Debug\net8.0\GestorStock.Security.pdb
+C:\Users\gabri\Documents\WPFPrueba - App WPF\Prueba Funcionando (Login + Agregar usuario + Listar Productos)\Gestion Stock\GestorStock.Security\obj\Debug\net8.0\ref\GestorStock.Security.dll
+D:\Documentos D\UTN\Programacion 3\TP Integrador\TP_IntegradorProg3\TP_IntegradorProg3\Gestion Stock\GestorStock.Security\bin\Debug\net8.0\GestorStock.Security.deps.json
+D:\Documentos D\UTN\Programacion 3\TP Integrador\TP_IntegradorProg3\TP_IntegradorProg3\Gestion Stock\GestorStock.Security\bin\Debug\net8.0\GestorStock.Security.dll
+D:\Documentos D\UTN\Programacion 3\TP Integrador\TP_IntegradorProg3\TP_IntegradorProg3\Gestion Stock\GestorStock.Security\bin\Debug\net8.0\GestorStock.Security.pdb
+D:\Documentos D\UTN\Programacion 3\TP Integrador\TP_IntegradorProg3\TP_IntegradorProg3\Gestion Stock\GestorStock.Security\obj\Debug\net8.0\GestorStock.Security.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documentos D\UTN\Programacion 3\TP Integrador\TP_IntegradorProg3\TP_IntegradorProg3\Gestion Stock\GestorStock.Security\obj\Debug\net8.0\GestorStock.Security.AssemblyInfoInputs.cache
+D:\Documentos D\UTN\Programacion 3\TP Integrador\TP_IntegradorProg3\TP_IntegradorProg3\Gestion Stock\GestorStock.Security\obj\Debug\net8.0\GestorStock.Security.AssemblyInfo.cs
+D:\Documentos D\UTN\Programacion 3\TP Integrador\TP_IntegradorProg3\TP_IntegradorProg3\Gestion Stock\GestorStock.Security\obj\Debug\net8.0\GestorStock.Security.csproj.CoreCompileInputs.cache
+D:\Documentos D\UTN\Programacion 3\TP Integrador\TP_IntegradorProg3\TP_IntegradorProg3\Gestion Stock\GestorStock.Security\obj\Debug\net8.0\GestorStock.Security.dll
+D:\Documentos D\UTN\Programacion 3\TP Integrador\TP_IntegradorProg3\TP_IntegradorProg3\Gestion Stock\GestorStock.Security\obj\Debug\net8.0\refint\GestorStock.Security.dll
+D:\Documentos D\UTN\Programacion 3\TP Integrador\TP_IntegradorProg3\TP_IntegradorProg3\Gestion Stock\GestorStock.Security\obj\Debug\net8.0\GestorStock.Security.pdb
+D:\Documentos D\UTN\Programacion 3\TP Integrador\TP_IntegradorProg3\TP_IntegradorProg3\Gestion Stock\GestorStock.Security\obj\Debug\net8.0\ref\GestorStock.Security.dll
+D:\Documentos D\UTN\Programacion 3\TP Integrador\TP_IntegradorProg3\TP_IntegradorProg3\Gestion Stock\GestorStock.Security\obj\Debug\net8.0\GestorStock.Security.sourcelink.json

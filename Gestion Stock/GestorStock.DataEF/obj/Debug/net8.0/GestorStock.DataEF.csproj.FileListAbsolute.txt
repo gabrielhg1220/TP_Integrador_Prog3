@@ -1,0 +1,52 @@
+G:\C#\WPF\Diseño UI + Login + SQL Server\Diseño 2\Gestion Stock\GestorStock.DataEF\bin\Debug\net8.0\GestorStock.DataEF.deps.json
+G:\C#\WPF\Diseño UI + Login + SQL Server\Diseño 2\Gestion Stock\GestorStock.DataEF\bin\Debug\net8.0\GestorStock.DataEF.runtimeconfig.json
+G:\C#\WPF\Diseño UI + Login + SQL Server\Diseño 2\Gestion Stock\GestorStock.DataEF\bin\Debug\net8.0\GestorStock.DataEF.dll
+G:\C#\WPF\Diseño UI + Login + SQL Server\Diseño 2\Gestion Stock\GestorStock.DataEF\bin\Debug\net8.0\GestorStock.DataEF.pdb
+G:\C#\WPF\Diseño UI + Login + SQL Server\Diseño 2\Gestion Stock\GestorStock.DataEF\bin\Debug\net8.0\GestorStock.Entities.dll
+G:\C#\WPF\Diseño UI + Login + SQL Server\Diseño 2\Gestion Stock\GestorStock.DataEF\bin\Debug\net8.0\GestorStock.Entities.pdb
+G:\C#\WPF\Diseño UI + Login + SQL Server\Diseño 2\Gestion Stock\GestorStock.DataEF\obj\Debug\net8.0\GestorStock.DataEF.csproj.AssemblyReference.cache
+G:\C#\WPF\Diseño UI + Login + SQL Server\Diseño 2\Gestion Stock\GestorStock.DataEF\obj\Debug\net8.0\GestorStock.DataEF.GeneratedMSBuildEditorConfig.editorconfig
+G:\C#\WPF\Diseño UI + Login + SQL Server\Diseño 2\Gestion Stock\GestorStock.DataEF\obj\Debug\net8.0\GestorStock.DataEF.AssemblyInfoInputs.cache
+G:\C#\WPF\Diseño UI + Login + SQL Server\Diseño 2\Gestion Stock\GestorStock.DataEF\obj\Debug\net8.0\GestorStock.DataEF.AssemblyInfo.cs
+G:\C#\WPF\Diseño UI + Login + SQL Server\Diseño 2\Gestion Stock\GestorStock.DataEF\obj\Debug\net8.0\GestorStock.DataEF.csproj.CoreCompileInputs.cache
+G:\C#\WPF\Diseño UI + Login + SQL Server\Diseño 2\Gestion Stock\GestorStock.DataEF\obj\Debug\net8.0\GestorSt.FE8060D3.Up2Date
+G:\C#\WPF\Diseño UI + Login + SQL Server\Diseño 2\Gestion Stock\GestorStock.DataEF\obj\Debug\net8.0\GestorStock.DataEF.dll
+G:\C#\WPF\Diseño UI + Login + SQL Server\Diseño 2\Gestion Stock\GestorStock.DataEF\obj\Debug\net8.0\refint\GestorStock.DataEF.dll
+G:\C#\WPF\Diseño UI + Login + SQL Server\Diseño 2\Gestion Stock\GestorStock.DataEF\obj\Debug\net8.0\GestorStock.DataEF.pdb
+G:\C#\WPF\Diseño UI + Login + SQL Server\Diseño 2\Gestion Stock\GestorStock.DataEF\obj\Debug\net8.0\GestorStock.DataEF.genruntimeconfig.cache
+G:\C#\WPF\Diseño UI + Login + SQL Server\Diseño 2\Gestion Stock\GestorStock.DataEF\obj\Debug\net8.0\ref\GestorStock.DataEF.dll
+C:\Users\gabri\Documents\WPFPrueba - App WPF\Prueba Funcionando (Login + Agregar usuario + Listar Productos)\Gestion Stock\GestorStock.DataEF\bin\Debug\net8.0\GestorStock.DataEF.deps.json
+C:\Users\gabri\Documents\WPFPrueba - App WPF\Prueba Funcionando (Login + Agregar usuario + Listar Productos)\Gestion Stock\GestorStock.DataEF\bin\Debug\net8.0\GestorStock.DataEF.runtimeconfig.json
+C:\Users\gabri\Documents\WPFPrueba - App WPF\Prueba Funcionando (Login + Agregar usuario + Listar Productos)\Gestion Stock\GestorStock.DataEF\bin\Debug\net8.0\GestorStock.DataEF.dll
+C:\Users\gabri\Documents\WPFPrueba - App WPF\Prueba Funcionando (Login + Agregar usuario + Listar Productos)\Gestion Stock\GestorStock.DataEF\bin\Debug\net8.0\GestorStock.DataEF.pdb
+C:\Users\gabri\Documents\WPFPrueba - App WPF\Prueba Funcionando (Login + Agregar usuario + Listar Productos)\Gestion Stock\GestorStock.DataEF\bin\Debug\net8.0\GestorStock.Entities.dll
+C:\Users\gabri\Documents\WPFPrueba - App WPF\Prueba Funcionando (Login + Agregar usuario + Listar Productos)\Gestion Stock\GestorStock.DataEF\bin\Debug\net8.0\GestorStock.Entities.pdb
+C:\Users\gabri\Documents\WPFPrueba - App WPF\Prueba Funcionando (Login + Agregar usuario + Listar Productos)\Gestion Stock\GestorStock.DataEF\obj\Debug\net8.0\GestorStock.DataEF.csproj.AssemblyReference.cache
+C:\Users\gabri\Documents\WPFPrueba - App WPF\Prueba Funcionando (Login + Agregar usuario + Listar Productos)\Gestion Stock\GestorStock.DataEF\obj\Debug\net8.0\GestorStock.DataEF.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabri\Documents\WPFPrueba - App WPF\Prueba Funcionando (Login + Agregar usuario + Listar Productos)\Gestion Stock\GestorStock.DataEF\obj\Debug\net8.0\GestorStock.DataEF.AssemblyInfoInputs.cache
+C:\Users\gabri\Documents\WPFPrueba - App WPF\Prueba Funcionando (Login + Agregar usuario + Listar Productos)\Gestion Stock\GestorStock.DataEF\obj\Debug\net8.0\GestorStock.DataEF.AssemblyInfo.cs
+C:\Users\gabri\Documents\WPFPrueba - App WPF\Prueba Funcionando (Login + Agregar usuario + Listar Productos)\Gestion Stock\GestorStock.DataEF\obj\Debug\net8.0\GestorStock.DataEF.csproj.CoreCompileInputs.cache
+C:\Users\gabri\Documents\WPFPrueba - App WPF\Prueba Funcionando (Login + Agregar usuario + Listar Productos)\Gestion Stock\GestorStock.DataEF\obj\Debug\net8.0\GestorSt.FE8060D3.Up2Date
+C:\Users\gabri\Documents\WPFPrueba - App WPF\Prueba Funcionando (Login + Agregar usuario + Listar Productos)\Gestion Stock\GestorStock.DataEF\obj\Debug\net8.0\GestorStock.DataEF.dll
+C:\Users\gabri\Documents\WPFPrueba - App WPF\Prueba Funcionando (Login + Agregar usuario + Listar Productos)\Gestion Stock\GestorStock.DataEF\obj\Debug\net8.0\refint\GestorStock.DataEF.dll
+C:\Users\gabri\Documents\WPFPrueba - App WPF\Prueba Funcionando (Login + Agregar usuario + Listar Productos)\Gestion Stock\GestorStock.DataEF\obj\Debug\net8.0\GestorStock.DataEF.pdb
+C:\Users\gabri\Documents\WPFPrueba - App WPF\Prueba Funcionando (Login + Agregar usuario + Listar Productos)\Gestion Stock\GestorStock.DataEF\obj\Debug\net8.0\GestorStock.DataEF.genruntimeconfig.cache
+C:\Users\gabri\Documents\WPFPrueba - App WPF\Prueba Funcionando (Login + Agregar usuario + Listar Productos)\Gestion Stock\GestorStock.DataEF\obj\Debug\net8.0\ref\GestorStock.DataEF.dll
+D:\Documentos D\UTN\Programacion 3\TP Integrador\TP_IntegradorProg3\TP_IntegradorProg3\Gestion Stock\GestorStock.DataEF\bin\Debug\net8.0\GestorStock.DataEF.deps.json
+D:\Documentos D\UTN\Programacion 3\TP Integrador\TP_IntegradorProg3\TP_IntegradorProg3\Gestion Stock\GestorStock.DataEF\bin\Debug\net8.0\GestorStock.DataEF.runtimeconfig.json
+D:\Documentos D\UTN\Programacion 3\TP Integrador\TP_IntegradorProg3\TP_IntegradorProg3\Gestion Stock\GestorStock.DataEF\bin\Debug\net8.0\GestorStock.DataEF.dll
+D:\Documentos D\UTN\Programacion 3\TP Integrador\TP_IntegradorProg3\TP_IntegradorProg3\Gestion Stock\GestorStock.DataEF\bin\Debug\net8.0\GestorStock.DataEF.pdb
+D:\Documentos D\UTN\Programacion 3\TP Integrador\TP_IntegradorProg3\TP_IntegradorProg3\Gestion Stock\GestorStock.DataEF\bin\Debug\net8.0\GestorStock.Entities.dll
+D:\Documentos D\UTN\Programacion 3\TP Integrador\TP_IntegradorProg3\TP_IntegradorProg3\Gestion Stock\GestorStock.DataEF\bin\Debug\net8.0\GestorStock.Entities.pdb
+D:\Documentos D\UTN\Programacion 3\TP Integrador\TP_IntegradorProg3\TP_IntegradorProg3\Gestion Stock\GestorStock.DataEF\obj\Debug\net8.0\GestorStock.DataEF.csproj.AssemblyReference.cache
+D:\Documentos D\UTN\Programacion 3\TP Integrador\TP_IntegradorProg3\TP_IntegradorProg3\Gestion Stock\GestorStock.DataEF\obj\Debug\net8.0\GestorStock.DataEF.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documentos D\UTN\Programacion 3\TP Integrador\TP_IntegradorProg3\TP_IntegradorProg3\Gestion Stock\GestorStock.DataEF\obj\Debug\net8.0\GestorStock.DataEF.AssemblyInfoInputs.cache
+D:\Documentos D\UTN\Programacion 3\TP Integrador\TP_IntegradorProg3\TP_IntegradorProg3\Gestion Stock\GestorStock.DataEF\obj\Debug\net8.0\GestorStock.DataEF.AssemblyInfo.cs
+D:\Documentos D\UTN\Programacion 3\TP Integrador\TP_IntegradorProg3\TP_IntegradorProg3\Gestion Stock\GestorStock.DataEF\obj\Debug\net8.0\GestorStock.DataEF.csproj.CoreCompileInputs.cache
+D:\Documentos D\UTN\Programacion 3\TP Integrador\TP_IntegradorProg3\TP_IntegradorProg3\Gestion Stock\GestorStock.DataEF\obj\Debug\net8.0\GestorSt.FE8060D3.Up2Date
+D:\Documentos D\UTN\Programacion 3\TP Integrador\TP_IntegradorProg3\TP_IntegradorProg3\Gestion Stock\GestorStock.DataEF\obj\Debug\net8.0\GestorStock.DataEF.dll
+D:\Documentos D\UTN\Programacion 3\TP Integrador\TP_IntegradorProg3\TP_IntegradorProg3\Gestion Stock\GestorStock.DataEF\obj\Debug\net8.0\refint\GestorStock.DataEF.dll
+D:\Documentos D\UTN\Programacion 3\TP Integrador\TP_IntegradorProg3\TP_IntegradorProg3\Gestion Stock\GestorStock.DataEF\obj\Debug\net8.0\GestorStock.DataEF.pdb
+D:\Documentos D\UTN\Programacion 3\TP Integrador\TP_IntegradorProg3\TP_IntegradorProg3\Gestion Stock\GestorStock.DataEF\obj\Debug\net8.0\GestorStock.DataEF.genruntimeconfig.cache
+D:\Documentos D\UTN\Programacion 3\TP Integrador\TP_IntegradorProg3\TP_IntegradorProg3\Gestion Stock\GestorStock.DataEF\obj\Debug\net8.0\ref\GestorStock.DataEF.dll
+D:\Documentos D\UTN\Programacion 3\TP Integrador\TP_IntegradorProg3\TP_IntegradorProg3\Gestion Stock\GestorStock.DataEF\obj\Debug\net8.0\GestorStock.DataEF.sourcelink.json
